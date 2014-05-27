@@ -1,4 +1,4 @@
-SampleEmpire
+Heading
 ============
 
 Sample Empire Project
